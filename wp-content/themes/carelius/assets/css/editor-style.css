@@ -1,0 +1,34 @@
+body.editor-styles-wrapper {
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #1c1c1c;
+    background-color: #f7f9fc;
+    padding: 1.5rem;
+}
+
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3,
+.editor-styles-wrapper h4,
+.editor-styles-wrapper h5,
+.editor-styles-wrapper h6 {
+    font-family: 'Poppins', 'Open Sans', Arial, sans-serif;
+    color: #103654;
+}
+
+.editor-styles-wrapper a {
+    color: #0c6390;
+}
+
+.editor-styles-wrapper blockquote {
+    border-left: 4px solid #0f88c6;
+    padding-left: 1.25rem;
+    margin: 0 0 1.5rem;
+    font-style: italic;
+    color: #103654;
+}
+
+.editor-styles-wrapper .wp-block-button__link {
+    border-radius: 999px;
+    background: linear-gradient(135deg, #0c6390, #0f88c6);
+    color: #ffffff;
+}
